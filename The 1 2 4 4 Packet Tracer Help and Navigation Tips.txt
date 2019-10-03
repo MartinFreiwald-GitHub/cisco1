@@ -1,0 +1,13 @@
+Martin Freiwald
+NET-143 Cisco 1
+Gregory Jackson
+1 2 4 4 Packet Tracer Help and Navagation Tips
+
+
+1.  Add an end device to the topology and connect it to one of the LANs with a media connection. What else does this device need to send data to other end users? Correct cables and cli commands for the source and destination ip addresses along with physical mac addresses.  Can you provide the information? Is there a way to verify that you correctly connected the device? Yes,  Ping the Default Gateway address or PC.  You can use arp command on the Pc to see the Source Mac addresses.  
+
+2.  Add a new intermediary device to one of the networks and connect it to one of the LANs or WANs with a media connection. What else does this device need in order to serve as an intermediary to other devices in the network?  Correct media cables for each terminal port.  Physical ip addresses both Source and destination addresses with fcs header and trailer bits.  The correct programmed, interface port designations.  Needs correct class ip address.  Correct domain class & network class.  Searial terminal, fastethernet port terminal or Gigaethernet proterminal useage with source address related and destination address related to end-point.   
+3.  Open a new instance of Packet Tracer. Create a new network with at least two LANs connected by a WAN. Connect all the devices. Investigate the original Packet Tracer activity to see what else you might need to do to make your new network functional. Record your thoughts and save your Packet Tracer file. You may want to revisit your network later after you have mastered a few more skills.
+
+
+ 
